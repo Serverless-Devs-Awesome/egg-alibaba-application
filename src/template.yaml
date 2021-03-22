@@ -1,5 +1,5 @@
 EggComponent:
-  Component: egg
+  Component: egg-alibaba-component
   Provider: alibaba
   Extends:
     deploy:
