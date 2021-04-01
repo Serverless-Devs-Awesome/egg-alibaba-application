@@ -1,6 +1,6 @@
 Type: Application
-Name: egg
-Version: 0.0.6
+Name: egg-app
+Version: 0.0.7
 Provider:
   - 阿里云
 Description: 快速部署一个Egg框架到阿里云函数计算
